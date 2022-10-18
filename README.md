@@ -1,1 +1,1 @@
-# Augmented-Reality-Appliaction
+# Augmented-Reality-Application

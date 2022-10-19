@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 7362f3423cf48cc4a844f5d2f2dc779b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/AR_Camera.unity
+    guid: 1fb5dd523c52b8f46825f2cfc761253a
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 4fd5671243a470f4eb02cf734212993f
+  - enabled: 1
+    path: Assets/Scenes/MenuModel.unity
+    guid: 721a60b92204c2f4ca996fbc2d9be70b
+  - enabled: 1
+    path: Assets/Scenes/ModelGantung.unity
+    guid: 91333696e3515ee48857e5e304da376c
+  - enabled: 1
+    path: Assets/Scenes/ModelRak.unity
+    guid: 177b3a21de49b5e45a3163beb28597ba
+  - enabled: 1
+    path: Assets/Scenes/ModelTegak.unity
+    guid: 453db0cf33934e54fa97b16d4e359ed6
+  - enabled: 1
+    path: Assets/Scenes/ModelTempel.unity
+    guid: 50e02446e5397034daa35d58d7a77d1e
+  - enabled: 1
+    path: Assets/Scenes/Panduan.unity
+    guid: 3c6f8a45cab0f3b4fb749ab8b04793b4
+  - enabled: 1
+    path: Assets/Scenes/Tentang.unity
+    guid: 439f83284947a7947a3a999d699936f5
+  - enabled: 1
+    path: Assets/Scenes/Keluar.unity
+    guid: 2195064867fa82d4db22be31d366cb91
+  - enabled: 1
+    path: Assets/Scenes/AR_Camera_Gantung.unity
+    guid: b269094e8042709408a79a0b78f06485
+  - enabled: 1
+    path: Assets/Scenes/AR_Camera_Rak.unity
+    guid: fbbd56ef9b4ea7a408a4f356257d551b
+  - enabled: 1
+    path: Assets/Scenes/AR_Camera_Tegak.unity
+    guid: 4b9737eb1fb524b49a832df4809daca4
+  - enabled: 1
+    path: Assets/Scenes/AR_Camera_Tempel.unity
+    guid: a61c1b4ed561d2d4e950c0af7c4eb052
+  m_configObjects: {}
